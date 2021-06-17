@@ -73,3 +73,5 @@ If you want to use the ***libso_loader.so*** library in your projects then you m
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Visual Studio Code](https://code.visualstudio.com/) - code editor
 - [gcc](https://gcc.gnu.org/) - used to compile the library on my Linux machine
+
+Link to assignment in Romanian: https://ocw.cs.pub.ro/courses/so/teme/tema-3
