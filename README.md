@@ -61,6 +61,8 @@ make -f Makefile.checker clean
 make -f Makefile clean
 ```
 
+* Your source check test (for indentation and coding style) may fail due lack of setup. Don't worry, it's non-essential. 
+
 ## 🎈 Usage <a name="usage"></a>
 If you want to use the ***libso_loader.so*** library in your projects then you must add the ***loader.h*** header in the desired source file and specify at the compile time the path to the libso_loader.so library.
 
