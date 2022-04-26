@@ -2,7 +2,7 @@
 <h1 align="center">Executable File Bootloader</h3>
 
 <p align="justify"> 
-The task was to implement an Executable File Bootloader as a dynamic library for UNIX. The loader would load the binary executable in the main memory, page by page, using the demand-paging mechanism. For the Bootloader to properly function, it has to take into account some of the following constraints: address space, page access privileges, the format of executable files, correctly implement demand-paging, correctly signal page-faults, and map files in the process address space (file mapping). Implemented in C, for POSIX API.
+The task was to implement an Executable File Bootloader as a dynamic library for UNIX. The loader would load the binary executable in the main memory, page by page, using the demand-paging mechanism. For the Bootloader to properly function, it has to take into account some of the following constraints: address space, page access privileges, the format of executable files, correctly implement demand-paging, correctly signal page-faults, and map files in the process address space (file mapping). Implemented in C, for POSIX & WIN32 API.
     <br> 
 </p>
 
